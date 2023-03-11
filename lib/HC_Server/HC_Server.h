@@ -5,6 +5,7 @@
 
         void init();
         void discoveryService();
+        void sendEvent();
     }
 
 #endif
